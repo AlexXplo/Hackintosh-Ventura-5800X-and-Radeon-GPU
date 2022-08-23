@@ -2,7 +2,7 @@
 
 This EFI it's been made by me, and it's bassed on my configuration:
 
-Motherboard: Aorus B450 Elite
+Motherboard: Aorus B450 Elite or you can use with same config the ASUS motherboard (check if it's compatible with macOS)
 
 CPU: Ryzen 5800x
 
