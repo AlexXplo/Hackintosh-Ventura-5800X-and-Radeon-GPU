@@ -8,8 +8,8 @@ CPU: Ryzen 5800x
 
 GPU: 6800XT Gigabyte - ALSO it's working with , R9 270x,R9 290x,R9 370x,RX 560, RX 580 (8GB) and 6800XT (16GB) aswell.
 
-SSD Samsung 980 EVO 2T
+SSD Samsung 980 EVO 2T (here it's sleeping the Ventura)
 
-SSD Kingston 2x250 GB (here it's sleeping the Monterey)
+SSD Kingston 2x250 GB (here it's sleeping the Windows and Linux)
 
 64GB Ram
