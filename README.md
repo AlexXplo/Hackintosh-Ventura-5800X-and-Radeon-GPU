@@ -6,12 +6,12 @@ Motherboard: Aorus B450 Elite
 
 CPU: Ryzen 5800x
 
-GPU: R9 270x (it was the only GPU I've found in the house :) ) - ALSO it's working with RX 560, RX 580 (8GB) and 6800XT (16GB) aswell.
+GPU: 6800XT Gigabyte - ALSO it's working with , R9 270x,R9 290x,R9 370x,RX 560, RX 580 (8GB) and 6800XT (16GB) aswell.
 
-SSD Samsung 970 EVO 1T
+SSD Samsung 980 EVO 2T
 
-SSD Kingston 250 GB (here it's sleeping the Monterey)
+SSD Kingston 2x250 GB (here it's sleeping the Monterey)
 
-24GB Ram
+64GB Ram
 
 All you need to do is:
