@@ -6,7 +6,7 @@ Motherboard: Aorus B450 Elite
 
 CPU: Ryzen 5800x
 
-GPU: R9 270x (it was the only GPU I've found in the house :) ) - ALSO it's working with RX 560 and 6800XT aswell. (tested)
+GPU: R9 270x (it was the only GPU I've found in the house :) ) - ALSO it's working with RX 560, RX 580 (8GB) and 6800XT (16GB) aswell.
 
 SSD Samsung 970 EVO 1T
 
