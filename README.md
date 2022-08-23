@@ -13,5 +13,3 @@ SSD Samsung 980 EVO 2T
 SSD Kingston 2x250 GB (here it's sleeping the Monterey)
 
 64GB Ram
-
-All you need to do is:
